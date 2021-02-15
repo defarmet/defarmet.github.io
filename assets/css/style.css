@@ -1,0 +1,50 @@
+body {
+	background-color: #eeeeee;
+	font-family: sans-serif;
+}
+
+.container-fluid {
+	color: #cccccc;
+	background-color: #ffffff;
+	border-width: 3px;
+	border-style: none none solid none;
+}
+
+.font-weight-bold {
+	font-size: 36px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.navbar-brand {
+	background: #4aaaa5;
+	color: #ffffff;
+	padding: 30px;
+}
+
+.card {
+	margin: 50px auto;
+	line-height: 2;
+	color: #777777;
+	background-color: #ffffff;
+}
+
+.card-header {
+	color: #4aaaa5;
+	background-color: #ffffff;
+}
+
+.fixed-bottom {
+	padding: 20px;
+	background-color: #666666;
+	color: #ffffff;
+	border-width: 5px;
+	border-style: solid none none none;
+	border-color: #4aaaa5;
+}
+
+.project {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	font-size: 24px;
+	margin: 12px 0px;
+}
