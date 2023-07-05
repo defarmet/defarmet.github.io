@@ -8,7 +8,6 @@ function load_project(name)
 	$(".card-body").append(project.append(a));
 }
 
-load_project("RPS-Multiplayer");
-load_project("Wolf-React");
 load_project("LibWolf");
 load_project("Simple Wolf");
+load_project("CECO Ladder");
